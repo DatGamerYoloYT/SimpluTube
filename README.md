@@ -1,2 +1,2 @@
-# EveryTube
+# SimpluTube
 i dont fucking know
